@@ -1,0 +1,2 @@
+database:
+  dataSourceName: root:xtt20001015@tcp(127.0.0.1:3306)/DailyPunch
